@@ -12,7 +12,7 @@
 2. Скажи ему:
 
 ```
-Прочитай этот гайд: https://github.com/kalichkin/openclaw-setup-guide
+Прочитай этот гайд: https://github.com/kalichkin/openclaw-setup-guide-ru
 
 Подключись к моему серверу по SSH (root@МОЙ_IP) и выполни шаги 2-4.
 Вот мои данные:
